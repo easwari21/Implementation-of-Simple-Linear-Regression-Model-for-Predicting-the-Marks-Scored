@@ -77,32 +77,32 @@ print("RMSE= ",rmse)
 ## Output:
 
 ### DATASET
-![label](Dataset.png)
+![label](Dataset.jpg)
 
 ### HEAD VALUES
-![label](Headvalues.png)
+![label](Headvalues.jpg)
 
 ### TAIL VALUES
-![label](Tailvalues.png)
+![label](Tailvalues.jpg)
 
 ### X VALUES
-![label](X.png)
+![label](X.jpg)
 
 ### Y VALUES
-![label](Y.png)
+![label](Y.jpg)
 
 ### PREDICTION VALUES
-![label](Ypred.png)
-![label](Ytest.png)
+![label](Ypred.jpg)
+![label](Ytest.jpg)
 
 ### MSE,MAE and RMSE
-![label](values.png)
+![label](values.jpg)
 
 ### TRAINING SET
-![label](Training.png)
+![label](Training.jpg)
 
 ### TESTING SET
-![label](Testing.png)
+![label](Testing.jpg)
 
 
 ## Result:
